@@ -1,0 +1,46 @@
+{
+  "trips": [
+    {
+      "id": 1,
+      "name": "Trip to Paris",
+      "location": "Paris",
+      "description": "A romantic getaway to the city of love.",
+      "price": 1200
+    },
+    {
+      "id": 2,
+      "name": "Adventure in Japan",
+      "location": "Japan",
+      "description": "Experience the tropical paradise with surfing and hiking.",
+      "price": 1500
+    },
+    {
+      "id": 3,
+      "name": "Cultural Tour of Japan",
+      "location": "Japan",
+      "description": "Explore the rich culture and history of Japan.",
+      "price": 2000
+    },
+    {
+      "id": 4,
+      "name": "Trip to Myanmar",
+      "location": "Myanmar",
+      "description": "Explore the rich culture and history of Myanmar.",
+      "price": 2000
+    },
+    {
+      "id": 5,
+      "name": "Adventure in Myanmar",
+      "location": "Myanmar",
+      "description": "Explore the rich culture and history of Myanmar.",
+      "price": 2000
+    },
+    {
+      "id": 6,
+      "name": "Beautiful Myanmar",
+      "location": "Myanmar",
+      "description": "Explore the rich culture and history of Myanmar.",
+      "price": 2000
+    }
+  ]
+}
