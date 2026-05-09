@@ -1,0 +1,9 @@
+.filter-btn {
+  background-color: #007bff;
+  border-color: #007bff;
+  color: white;
+  padding: 5px 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin : 12px;
+  }
